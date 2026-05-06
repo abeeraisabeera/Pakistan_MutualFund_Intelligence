@@ -52,6 +52,42 @@ Data Collection → Cleaning → Feature Engineering → ML Forecasting → Visu
 
 ---
 
+## 📸 Demo & Visual Outputs
+
+### 📊 NAV Performance
+![NAV Performance](asset/5_year_historical_nav_performance.png)
+
+### 🌍 Macro Impact
+![Macro Impact](asset/Fund%20Returns%20vs.%20Global%20Macro%20Indicators.png)
+
+### 🤖 Feature Importance
+![Feature Importance](asset/GBM%20feature%20importance.png)
+
+### ⚠️ Stress Testing
+![Stress Test](asset/Global%20Macro%20Stress%20Test%20%E2%80%94%20Estimated%20NAV%20Impact%20by%20Scenario.png)
+
+### 📈 Balanced Fund Projection
+![Balanced Fund](asset/Meezan_Balanced_Funds_5_Year_Nav_Projection.png)
+
+### 💰 Cash Fund Projection
+![Cash Fund](asset/Meezan_Bank_Cash_Fund_5_Year_Nav_Projection.png)
+
+### 📊 Mutual Fund Projection
+![Mutual Fund](asset/Meezan_Bank_Mutual_Funds_5_Year_Projection.png)
+
+### 🧾 Portfolio Composition
+![Portfolio](asset/Portfolio_Composition_OGD_Dependency_Analysis.png)
+
+### 📉 Volatility Analysis
+![Volatility](asset/annual_votality.png)
+
+### 📊 Benchmark Dashboard
+![Benchmark](asset/bechmark%20dashborard.png)
+
+### 📌 Investment Plan
+![Investment Plan](asset/investment_plan.png)
+---
+
 ## 📊 Outputs
 
 - Mutual fund performance comparison
