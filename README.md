@@ -1,5 +1,6 @@
 # 🇵🇰 Pakistan Mutual Fund Intelligence Platform  
 ### Data-Driven Mutual Fund Analytics · ML Forecasting · Risk & Sector Intelligence Dashboard
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
